@@ -11,3 +11,5 @@
 #         id_ = 100
 # income_1 = Income(1000)
 # print(income_1.id_)
+
+# тест
